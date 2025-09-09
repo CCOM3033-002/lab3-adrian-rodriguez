@@ -27,7 +27,7 @@ int main(){
     cout<< "Orden Decendente: ";
 
 
-    //Verificar cada caso que pueda ocurrir parra que se ordene los numeros generados aleatorea mente sean oraganizados de mayor a menor
+    //Verificar cada caso que pueda ocurrir parra que se ordene los numeros generados aleatorea mente sean oraganizados de mayor a menor y desplegarlos
 
     if (numeroAleatorio1 >= numeroAleatorio2 && numeroAleatorio2 >= numeroAleatorio3)
 
