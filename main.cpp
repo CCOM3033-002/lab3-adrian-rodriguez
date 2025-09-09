@@ -51,7 +51,7 @@ int main(){
         cout<< numeroAleatorio1 << " >= " << numeroAleatorio3 << " >= " << numeroAleatorio2;    
     
     else if (numeroAleatorio3 >= numeroAleatorio1 && numeroAleatorio1 >= numeroAleatorio2)
-        cout<< numeroAleatorio3 << " >= " << numeroAleatorio1 << " >= " << numeroAleatorio2;
+        cout<< numeroAleatorio3 << " >= " << numeroAleatorio1 << " >= " << numeroAleatorio2 << endl;
 
 
 
